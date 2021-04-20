@@ -1,0 +1,2 @@
+export const CESTA_ADD_ITEM = 'CESTA_ADD_ITEM';
+export const CESTA_REMOVE_ITEM = 'CESTA_REMOVE_ITEM';
